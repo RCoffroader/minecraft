@@ -1,0 +1,45 @@
+<!-- wp:group {"align":"full","layout":{"type":"default"}} -->
+<div class="wp-block-group alignfull"><!-- wp:cover {"url":"https://rcoffroadersite.files.wordpress.com/2023/05/20230502_022241558_ios.jpg","id":6,"dimRatio":10,"minHeight":680,"contentPosition":"center center","isDark":false,"align":"full","style":{"spacing":{"padding":{"right":"var:preset|spacing|60","left":"var:preset|spacing|60"}}}} -->
+<div class="wp-block-cover alignfull is-light" style="padding-right:var(--wp--preset--spacing--60);padding-left:var(--wp--preset--spacing--60);min-height:680px"><span aria-hidden="true" class="wp-block-cover__background has-background-dim-10 has-background-dim"></span><img class="wp-block-cover__image-background wp-image-6" alt="" src="https://rcoffroadersite.files.wordpress.com/2023/05/20230502_022241558_ios.jpg" data-object-fit="cover"/><div class="wp-block-cover__inner-container"><!-- wp:columns {"isStackedOnMobile":false} -->
+<div class="wp-block-columns is-not-stacked-on-mobile"><!-- wp:column {"verticalAlignment":"center"} -->
+<div class="wp-block-column is-vertically-aligned-center"></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"center"} -->
+<div class="wp-block-column is-vertically-aligned-center"></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:cover {"overlayColor":"black","minHeight":100,"minHeightUnit":"vh","align":"full","style":{"spacing":{"padding":{"top":"4vw","right":"4vw","bottom":"4vw","left":"4vw"}}}} -->
+<div class="wp-block-cover alignfull" style="padding-top:4vw;padding-right:4vw;padding-bottom:4vw;padding-left:4vw;min-height:100vh"><span aria-hidden="true" class="wp-block-cover__background has-black-background-color has-background-dim-100 has-background-dim"></span><div class="wp-block-cover__inner-container"><!-- wp:group {"style":{"spacing":{"blockGap":"20px","margin":{"bottom":"0"}}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group" style="margin-bottom:0"><!-- wp:group {"layout":{"type":"constrained","contentSize":"132px"}} -->
+<div class="wp-block-group"><!-- wp:site-logo {"width":132,"isLink":false,"shouldSyncIcon":false,"align":"center","className":"is-style-rounded"} /--></div>
+<!-- /wp:group -->
+
+<!-- wp:site-title {"textAlign":"center","isLink":false,"align":"wide","style":{"elements":{"link":{"color":{"text":"var:preset|color|white"}}},"typography":{"textTransform":"uppercase","fontSize":"69px","lineHeight":"1","fontStyle":"normal","fontWeight":"700","letterSpacing":"0px","textDecoration":"none"}},"textColor":"white"} /-->
+
+<!-- wp:buttons {"layout":{"type":"flex","justifyContent":"center","orientation":"vertical"},"style":{"spacing":{"blockGap":"16px","margin":{"top":"32px"}}}} -->
+<div class="wp-block-buttons" style="margin-top:32px"><!-- wp:button {"textColor":"black","width":100,"style":{"typography":{"textTransform":"uppercase"},"border":{"radius":"100px"},"color":{"gradient":"linear-gradient(135deg,rgb(34,193,195) 0%,rgb(224,253,45) 100%)"}}} -->
+<div class="wp-block-button has-custom-width wp-block-button__width-100" style="text-transform:uppercase"><a class="wp-block-button__link has-black-color has-text-color has-background wp-element-button" href="https://www.mediafire.com/file/ckne50vvm94qawg/420paintings.mcpack/file" style="border-radius:100px;background:linear-gradient(135deg,rgb(34,193,195) 0%,rgb(224,253,45) 100%)"><strong>420</strong> <strong>Picture texture pack</strong> <strong>version 1</strong>     <img class="wp-image-10" style="width: 150px" src="https://rcoffroadersite.files.wordpress.com/2023/05/pics2.png" alt=""> <strong>click here</strong></a></div>
+<!-- /wp:button -->
+
+<!-- wp:button {"width":100,"style":{"typography":{"textTransform":"uppercase"},"border":{"radius":"100px"},"color":{"gradient":"linear-gradient(135deg,rgb(255,231,102) 0%,rgb(255,94,98) 100%)","text":"#960c0d"}}} -->
+<div class="wp-block-button has-custom-width wp-block-button__width-100" style="text-transform:uppercase"><a class="wp-block-button__link has-text-color has-background wp-element-button" href="https://www.mediafire.com/file/a94ep1uxhvcap9x/cannabeds.mcpack/file" style="border-radius:100px;color:#960c0d;background:linear-gradient(135deg,rgb(255,231,102) 0%,rgb(255,94,98) 100%)"><strong>420 bed texture pack version 1</strong>     <img class="wp-image-9" style="width: 150px" src="https://rcoffroadersite.files.wordpress.com/2023/05/beds.png" alt=""><strong> click here</strong></a></div>
+<!-- /wp:button -->
+
+<!-- wp:button {"width":100,"style":{"typography":{"textTransform":"uppercase"},"border":{"radius":"100px"},"color":{"gradient":"linear-gradient(135deg,rgb(12,235,235) 0%,rgb(32,227,178) 49%,rgb(41,255,198) 100%)","text":"#0b5340"}}} -->
+<div class="wp-block-button has-custom-width wp-block-button__width-100" style="text-transform:uppercase"><a class="wp-block-button__link has-text-color has-background wp-element-button" href="https://www.mediafire.com/file/e0pvqi5fovqpktd/weedelytra1.0.mcpack/file" style="border-radius:100px;color:#0b5340;background:linear-gradient(135deg,rgb(12,235,235) 0%,rgb(32,227,178) 49%,rgb(41,255,198) 100%)"><strong>Pot leaf elytra version 1</strong>    <img class="wp-image-11" style="width: 64px" src="https://rcoffroadersite.files.wordpress.com/2023/05/elytra.png" alt=""><strong>click here</strong></a></div>
+<!-- /wp:button -->
+
+<!-- wp:button {"width":100,"style":{"typography":{"textTransform":"uppercase"},"border":{"radius":"100px"},"color":{"gradient":"linear-gradient(135deg,rgb(100,207,241) 0%,rgb(122,103,241) 100%)","text":"#142547"}}} -->
+<div class="wp-block-button has-custom-width wp-block-button__width-100" style="text-transform:uppercase"><a class="wp-block-button__link has-text-color has-background wp-element-button" href="https://www.mediafire.com/file/wj0qptchuqvj1kj/420texturepack4.0.mcpack/file" style="border-radius:100px;color:#142547;background:linear-gradient(135deg,rgb(100,207,241) 0%,rgb(122,103,241) 100%)"><strong>420 weed farm texture pack version 4.0</strong>     <strong>click here</strong></a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons -->
+
+<!-- wp:paragraph -->
+<p>                                            420weedfarmer4.0 CONTENTS<br>New Paintings:<br>New Beds:<br>New Elytra:<br>New Sun:<br>New Moon:<br>New Clouds:<br>Wheat And Beetroots Crops Are Weed Crops:<br>Wheat = Bag of Weed:<br>Bail Of Hay = Bail Of Buds:<br>Beetroot = Bud:<br>peony = Tall Pot Plant:<br>Cornflowers, Orange,Pink,Red, &amp; White Tulips = Pot Plants:<br>Goat Horn = Pipe:<br>Totem of Undying = Bong:<br>Dead Fire Coral = Red Hookah:<br>Dead Tude Coral = Blue Hookah:<br>Warped Door = Stone Door:<br>Warped Trap Door = Stone Trap Door:<br>Crimson Door = Oak Plank Door:<br>Crimson Trapdoor = Oak Plank Trapdoor:<br>Iron Door = Vault Door:<br>Crimson Stripped Log = Seamless Decorative Block:<br>Warped Stripped Log = Seamless Decorative Block :<br>Cooked Beef = Burger:<br>Cooked Chicken = Bucket of KFC:<br>Cooked pork chop = Bacon:<br>Baked Potato = Fries:<br>Bread = Loaf of Bread:<br>Emeralds = Cash:<br>New armor stand:<br>Connected Glass:<br>Removed Pumpkin Blur:</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group --></div></div>
+<!-- /wp:cover --></div></div>
+<!-- /wp:cover --></div>
+<!-- /wp:group -->
